@@ -10,7 +10,16 @@ Packages used:
   2.Pandas.
   3.Pyspark
   4.Matplotlib.
-  
+
+
+## File Description 
+
+You can find the notebook file which has all codes for processes, and markdown cells to explain the code.
+
 ## Medium Blog Post
 
 https://medium.com/@nalqahtani_9715/predicting-churn-users-for-sparkify-ad2ddb834a7a
+
+## Acknowledgements
+
+I acknowledege all works in the project and the data to udacity.
