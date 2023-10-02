@@ -14,7 +14,7 @@ Packages used:
 
 ## File Description 
 
-You can find the notebook file which has all codes for processes, and markdown cells to explain the code.
+You can find the notebook & html file which has all codes for processes to predict the churn users, and markdown cells to explain the code.
 
 ## Medium Blog Post
 
